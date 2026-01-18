@@ -20,6 +20,7 @@ I’m comfortable working in **remote, async-friendly environments** and value c
 - REST / event-driven applications
 
 **Other (learning & experimentation)**
+- React(learning)
 - C++ (basic / experimental)
 - Windows APIs (exploratory usage)
 - Rust (learning)
