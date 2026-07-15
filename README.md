@@ -21,6 +21,7 @@ I’m comfortable working in **remote, async-friendly environments** and value c
 
 **Other (learning & experimentation)**
 - React(learning)
+- Python(basic)
 - C++ (basic / experimental)
 - Windows APIs (exploratory usage)
 - Rust (learning)
@@ -29,11 +30,11 @@ I’m comfortable working in **remote, async-friendly environments** and value c
 
 ## 🧠 What I focus on
 
-- Writing readable, maintainable code
-- Understanding trade-offs, not just implementations
-- Improving developer experience
-- Building things that are easy to reason about
-- Learning by building, not just reading
+- Writing clean, maintainable code
+- Understanding trade-offs behind design decisions
+- Improving the developer experience
+- Building systems that are easy to understand and maintain
+- Learning through hands-on projects
 
 ---
 
@@ -43,11 +44,11 @@ I’m comfortable working in **remote, async-friendly environments** and value c
 Personal portfolio built with **Nuxt 3 & Vue**, showcasing my work and experiments.
 
 ### 🔹 node-native-win-utils
-An **experimental project** exploring how Node.js can interact with native Windows functionality.  
-Built mainly for learning and curiosity, not production use.
+An experimental Node.js project for exploring native Windows functionality and system-level integrations.
+Created mainly for learning and experimentation.
 
-### 🔹 Idea Of Evil (Discord bot)
-A **TypeScript-based Discord bot** demonstrating event-driven design and real-world project structure.
+### 🔹 IOE-discord-music-bot
+A Discord music bot built with TypeScript, featuring a modular structure and event-driven design.
 
 ### 🔹 bserializer
 A small serialization experiment focused on data handling and structure.
@@ -66,8 +67,4 @@ A small serialization experiment focused on data handling and structure.
 ## 📫 Links
 
 - 🌐 Portfolio: https://ryner.xyz
-- 💼 Open to remote opportunities
 
----
-
-> “Stay curious. Build things. Improve a little every day.”
